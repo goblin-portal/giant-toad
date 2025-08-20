@@ -1,0 +1,28 @@
+name: Check
+
+on:
+  push:
+    branches: [master, main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v5
+      - uses: subosito/flutter-action@v2
+        with:
+          channel: stable
+          cache: true
+      - run: flutter pub get
+      - run: dart format --output=none --set-exit-if-changed lib test benchmark
+      - run: flutter analyze
+      - run: flutter test --coverage
+      - run: tool/check_coverage.sh 70
+      - run: flutter test benchmark
+      - run: dart pub publish --dry-run

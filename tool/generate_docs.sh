@@ -2,7 +2,7 @@
 set -euo pipefail
 
 repo_root="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
-output_dir="$repo_root/docs/api"
+output_dir="$repo_root/doc/api"
 temporary_dir="$(mktemp -d)"
 trap 'rm -rf "$temporary_dir"' EXIT
 
@@ -40,4 +40,4 @@ while IFS= read -r -d '' source; do
     "$source"
 done < <(find "$temporary_dir/dartdoc" -type f -name '*.html' -print0)
 
-echo "Generated Markdown API documentation in docs/api."
+echo "Generated Markdown API documentation in doc/api."

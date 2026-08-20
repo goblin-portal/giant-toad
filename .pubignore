@@ -14,7 +14,7 @@ migrate_working_dir/
 .idea/
 pubspec.lock
 **/doc/api/
-/docs/api/
+/doc/api/
 .dart_tool/
 **/.dart_tool/
 .flutter-plugins-dependencies

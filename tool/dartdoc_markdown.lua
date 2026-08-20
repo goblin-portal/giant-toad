@@ -8,7 +8,7 @@ local function normalize_path(path)
   if source_path:match("^file%-.+_lib_src_") then
     path = source_path:gsub("^file%-.+_lib_src_", "src_")
   end
-  if path == "docs/README.md" then
+  if path == "doc/README.md" then
     return "../README.md"
   end
   if path ~= ""

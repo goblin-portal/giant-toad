@@ -59,7 +59,7 @@ Implemented today:
 - `gt init`, `gt validate`, `gt run`, and standard Flutter target exports.
 
 Guides, engineering notes, and the generated Markdown API reference live in
-[`docs/`](docs/README.md).
+[`doc/`](doc/README.md).
 
 ## Package usage
 

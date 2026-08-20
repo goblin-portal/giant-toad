@@ -1,0 +1,5 @@
+1.  [Classes](src_render_giant_toad_directional_animation/index.md#classes)
+2.  [GiantToadDirectionalAnimations](src_render_giant_toad_directional_animation/GiantToadDirectionalAnimations-class.md)
+3.  [GiantToadDirectionalState](src_render_giant_toad_directional_animation/GiantToadDirectionalState-class.md)
+4.  [Enums](src_render_giant_toad_directional_animation/index.md#enums)
+5.  [GiantToadFacing](src_render_giant_toad_directional_animation/GiantToadFacing.md)

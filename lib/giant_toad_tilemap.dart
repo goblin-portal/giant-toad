@@ -1,5 +1,5 @@
 /// Sparse tilemap document, editing, rendering, area, and collision APIs.
-library;
+library giant_toad_tilemap;
 
 export 'src/tilemap/giant_toad_area_document.dart';
 export 'src/tilemap/giant_toad_area_tracker.dart';

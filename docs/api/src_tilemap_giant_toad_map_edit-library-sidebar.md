@@ -1,0 +1,6 @@
+1.  [Classes](src_tilemap_giant_toad_map_edit/index.md#classes)
+2.  [GiantToadMapCellChange](src_tilemap_giant_toad_map_edit/GiantToadMapCellChange-class.md)
+3.  [GiantToadMapEdit](src_tilemap_giant_toad_map_edit/GiantToadMapEdit-class.md)
+4.  [GiantToadMapEditTransaction](src_tilemap_giant_toad_map_edit/GiantToadMapEditTransaction-class.md)
+5.  [Typedefs](src_tilemap_giant_toad_map_edit/index.md#typedefs)
+6.  [GiantToadEditedChunk](src_tilemap_giant_toad_map_edit/GiantToadEditedChunk.md)

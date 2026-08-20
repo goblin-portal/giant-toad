@@ -58,7 +58,8 @@ Implemented today:
 - reusable engine systems exercised by the separate example gallery;
 - `gt init`, `gt validate`, `gt run`, and standard Flutter target exports.
 
-Guides and design notes will come soon.
+Guides, engineering notes, and the generated Markdown API reference live in
+[`docs/`](docs/README.md).
 
 ## Package usage
 
@@ -90,5 +91,5 @@ From the package root:
 flutter pub get
 flutter analyze
 flutter test
-dart doc
+./tool/generate_docs.sh
 ```

@@ -1,0 +1,6 @@
+1.  [Classes](src_runtime_giant_toad_capabilities/index.md#classes)
+2.  [GiantToadCapabilities](src_runtime_giant_toad_capabilities/GiantToadCapabilities-class.md)
+3.  [GiantToadCapabilityStatus](src_runtime_giant_toad_capabilities/GiantToadCapabilityStatus-class.md)
+4.  [Enums](src_runtime_giant_toad_capabilities/index.md#enums)
+5.  [GiantToadCapability](src_runtime_giant_toad_capabilities/GiantToadCapability.md)
+6.  [GiantToadPlatformKind](src_runtime_giant_toad_capabilities/GiantToadPlatformKind.md)

@@ -1,0 +1,5 @@
+1.  [Classes](src_input_giant_toad_action_input/index.md#classes)
+2.  [GiantToadActionInput](src_input_giant_toad_action_input/GiantToadActionInput-class.md)
+3.  [GiantToadControl](src_input_giant_toad_action_input/GiantToadControl-class.md)
+4.  [GiantToadJoystickActions](src_input_giant_toad_action_input/GiantToadJoystickActions-class.md)
+5.  [GiantToadKeyboardActions](src_input_giant_toad_action_input/GiantToadKeyboardActions-class.md)

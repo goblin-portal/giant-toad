@@ -1,0 +1,32 @@
+name: Generate API documentation
+
+on:
+  push:
+    branches: [main, master]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  generate-api:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v5
+      - uses: subosito/flutter-action@v2
+        with:
+          channel: stable
+          cache: true
+      - name: Install Pandoc
+        run: sudo apt-get update && sudo apt-get install --yes pandoc
+      - name: Resolve dependencies
+        run: flutter pub get
+      - name: Generate Markdown API documentation
+        run: ./tool/generate_docs.sh
+      - name: Upload rendered documentation
+        uses: actions/upload-artifact@v4
+        with:
+          name: giant-toad-api-docs
+          path: docs

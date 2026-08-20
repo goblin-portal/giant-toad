@@ -1,0 +1,8 @@
+1.  [Classes](src_runtime_giant_toad_persistence/index.md#classes)
+2.  [GiantToadAutosaveCoordinator](src_runtime_giant_toad_persistence/GiantToadAutosaveCoordinator-class.md)
+3.  [GiantToadPreferencesStore](src_runtime_giant_toad_persistence/GiantToadPreferencesStore-class.md)
+4.  [GiantToadSaveData](src_runtime_giant_toad_persistence/GiantToadSaveData-class.md)
+5.  [GiantToadSaveSlots](src_runtime_giant_toad_persistence/GiantToadSaveSlots-class.md)
+6.  [GiantToadSettings](src_runtime_giant_toad_persistence/GiantToadSettings-class.md)
+7.  [Typedefs](src_runtime_giant_toad_persistence/index.md#typedefs)
+8.  [GiantToadSaveMigration](src_runtime_giant_toad_persistence/GiantToadSaveMigration.md)

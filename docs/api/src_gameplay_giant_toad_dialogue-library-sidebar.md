@@ -1,7 +1,0 @@
-1.  [Classes](src_gameplay_giant_toad_dialogue/index.md#classes)
-2.  [GiantToadDialogue](src_gameplay_giant_toad_dialogue/GiantToadDialogue-class.md)
-3.  [GiantToadDialogueChoice](src_gameplay_giant_toad_dialogue/GiantToadDialogueChoice-class.md)
-4.  [GiantToadDialogueNode](src_gameplay_giant_toad_dialogue/GiantToadDialogueNode-class.md)
-5.  [GiantToadTypewriterDialogue](src_gameplay_giant_toad_dialogue/GiantToadTypewriterDialogue-class.md)
-6.  [GiantToadTypewriterLine](src_gameplay_giant_toad_dialogue/GiantToadTypewriterLine-class.md)
-7.  [GiantToadValueChoice](src_gameplay_giant_toad_dialogue/GiantToadValueChoice-class.md)

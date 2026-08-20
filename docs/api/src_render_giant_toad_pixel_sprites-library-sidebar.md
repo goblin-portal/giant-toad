@@ -1,8 +1,0 @@
-1.  [Classes](src_render_giant_toad_pixel_sprites/index.md#classes)
-2.  [GiantToadPixelAnimationComponent](src_render_giant_toad_pixel_sprites/GiantToadPixelAnimationComponent-class.md)
-3.  [GiantToadPixelAtlas](src_render_giant_toad_pixel_sprites/GiantToadPixelAtlas-class.md)
-4.  [GiantToadPixelSpriteComponent](src_render_giant_toad_pixel_sprites/GiantToadPixelSpriteComponent-class.md)
-5.  [Enums](src_render_giant_toad_pixel_sprites/index.md#enums)
-6.  [GiantToadSampling](src_render_giant_toad_pixel_sprites/GiantToadSampling.md)
-7.  [Mixins](src_render_giant_toad_pixel_sprites/index.md#mixins)
-8.  [GiantToadPixelPaint](src_render_giant_toad_pixel_sprites/GiantToadPixelPaint-mixin.md)

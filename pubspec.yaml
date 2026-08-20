@@ -1,9 +1,9 @@
 name: giant_toad
 description: Typed Flame foundations and production conventions for pixel-art games.
 version: 0.1.0
-homepage: https://github.com/goblin-loot/giant-toad
-repository: https://github.com/goblin-loot/giant-toad
-issue_tracker: https://github.com/goblin-loot/giant-toad/issues
+homepage: https://github.com/goblin-portal/giant-toad
+repository: https://github.com/goblin-portal/giant-toad
+issue_tracker: https://github.com/goblin-portal/giant-toad/issues
 topics:
   - flame
   - game-engine

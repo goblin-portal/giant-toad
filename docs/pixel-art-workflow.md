@@ -28,7 +28,7 @@ the final display font size rather than enlarging a low-resolution text image.
 
 ## Resolution and viewport
 
-`GiantToadGame` defaults to Map Magnet Nim's policy: an authored 800×600
+`GiantToadGame` defaults to the project policy: an authored 800×600
 baseline, expanding viewport, and 2× pixel scale. Expansion divides both current
 window dimensions by two, so the standard 1600×900 window exposes an 800×450
 logical viewport. Resizing reveals more or less space on both axes.
@@ -52,8 +52,8 @@ a project metadata loader rather than a second animation runtime.
 
 Game entities are normal Flame components in a `World`. Use Flame effects,
 particles, timers, collision callbacks, and `RouterComponent` directly.
-`GiantToadPixelBody` is appropriate only for kinematic collision against a Map
-Magnet solid tile layer.
+`GiantToadPixelBody` is appropriate only for kinematic collision against a
+solid tile layer.
 
 ## UI
 

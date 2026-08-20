@@ -1,7 +1,0 @@
-1.  [Classes](src_render_giant_toad_lighting/index.md#classes)
-2.  [GiantToadLighting](src_render_giant_toad_lighting/GiantToadLighting-class.md)
-3.  [GiantToadShadowOptions](src_render_giant_toad_lighting/GiantToadShadowOptions-class.md)
-4.  [GiantToadShadowPoint](src_render_giant_toad_lighting/GiantToadShadowPoint-class.md)
-5.  [GiantToadShadowRect](src_render_giant_toad_lighting/GiantToadShadowRect-class.md)
-6.  [GiantToadShadowShape](src_render_giant_toad_lighting/GiantToadShadowShape-class.md)
-7.  [GiantToadShadowTriangle](src_render_giant_toad_lighting/GiantToadShadowTriangle-class.md)

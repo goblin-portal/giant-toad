@@ -1,4 +1,4 @@
-# Map Magnet runtime
+# Map runtime
 
 `GiantToadMapDocument` preserves sparse signed chunks and unknown authored
 fields. `GiantToadMapEditTransaction` groups a paint operation into one

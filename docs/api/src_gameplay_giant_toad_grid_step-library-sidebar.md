@@ -1,5 +1,0 @@
-1.  [Classes](src_gameplay_giant_toad_grid_step/index.md#classes)
-2.  [GiantToadGridStepper](src_gameplay_giant_toad_grid_step/GiantToadGridStepper-class.md)
-3.  [Enums](src_gameplay_giant_toad_grid_step/index.md#enums)
-4.  [GiantToadGridDirection](src_gameplay_giant_toad_grid_step/GiantToadGridDirection.md)
-5.  [GiantToadGridStepResult](src_gameplay_giant_toad_grid_step/GiantToadGridStepResult.md)

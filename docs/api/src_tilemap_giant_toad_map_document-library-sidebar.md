@@ -1,8 +1,0 @@
-1.  [Classes](src_tilemap_giant_toad_map_document/index.md#classes)
-2.  [GiantToadChunkKey](src_tilemap_giant_toad_map_document/GiantToadChunkKey-class.md)
-3.  [GiantToadMapDocument](src_tilemap_giant_toad_map_document/GiantToadMapDocument-class.md)
-4.  [GiantToadMapDocumentCodec](src_tilemap_giant_toad_map_document/GiantToadMapDocumentCodec-class.md)
-5.  [GiantToadMapLayer](src_tilemap_giant_toad_map_document/GiantToadMapLayer-class.md)
-6.  [GiantToadMapTraversalMetrics](src_tilemap_giant_toad_map_document/GiantToadMapTraversalMetrics-class.md)
-7.  [Typedefs](src_tilemap_giant_toad_map_document/index.md#typedefs)
-8.  [GiantToadMapCell](src_tilemap_giant_toad_map_document/GiantToadMapCell.md)

@@ -1,7 +1,0 @@
-1.  [Classes](src_world_giant_toad_tile_collision/index.md#classes)
-2.  [GiantToadMovingPlatform](src_world_giant_toad_tile_collision/GiantToadMovingPlatform-class.md)
-3.  [GiantToadPixelBody](src_world_giant_toad_tile_collision/GiantToadPixelBody-class.md)
-4.  [GiantToadTileCollision](src_world_giant_toad_tile_collision/GiantToadTileCollision-class.md)
-5.  [GiantToadTileMoveResult](src_world_giant_toad_tile_collision/GiantToadTileMoveResult-class.md)
-6.  [Enums](src_world_giant_toad_tile_collision/index.md#enums)
-7.  [GiantToadTileMaterial](src_world_giant_toad_tile_collision/GiantToadTileMaterial.md)

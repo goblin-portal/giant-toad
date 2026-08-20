@@ -1,0 +1,63 @@
+<div>
+
+<div>
+
+# <span class="kind-method">cancel</span> method
+
+</div>
+
+<div>
+
+<div>
+
+1.  @[override](https://api.flutter.dev/flutter/dart-core/override-constant.md)
+
+</div>
+
+<span class="returntype">void</span> <span class="name">cancel</span>()
+
+<div>
+
+<span class="feature">inherited</span>
+
+</div>
+
+</div>
+
+<div>
+
+## Implementation
+
+``` dart
+@override
+void cancel() {
+  if (index < children.length) children[index].cancel();
+}
+```
+
+</div>
+
+</div>
+
+<div>
+
+<div>
+
+</div>
+
+1.  [giant_toad](../../index.md)
+2.  [giant_toad](../../giant_toad/index.md)
+3.  [GiantToadSelectorTask<span class="signature">\<<span class="type-parameter">C</span>\></span>](../../giant_toad/GiantToadSelectorTask-class.md)
+4.  cancel method
+
+##### GiantToadSelectorTask class
+
+<div>
+
+</div>
+
+</div>
+
+<div>
+
+</div>

@@ -1,8 +1,0 @@
-1.  [Classes](src_ui_giant_toad_overlay/index.md#classes)
-2.  [GiantToadDisplayUiOverlay](src_ui_giant_toad_overlay/GiantToadDisplayUiOverlay-class.md)
-3.  [GiantToadNativeText](src_ui_giant_toad_overlay/GiantToadNativeText-class.md)
-4.  [GiantToadNativeTextOverlay](src_ui_giant_toad_overlay/GiantToadNativeTextOverlay-class.md)
-5.  [GiantToadOverlay](src_ui_giant_toad_overlay/GiantToadOverlay-class.md)
-6.  [GiantToadPixelOverlay](src_ui_giant_toad_overlay/GiantToadPixelOverlay-class.md)
-7.  [Typedefs](src_ui_giant_toad_overlay/index.md#typedefs)
-8.  [GiantToadDisplayUiBuilder](src_ui_giant_toad_overlay/GiantToadDisplayUiBuilder.md)

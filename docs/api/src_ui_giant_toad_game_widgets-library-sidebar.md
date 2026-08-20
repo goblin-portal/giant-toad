@@ -1,6 +1,0 @@
-1.  [Classes](src_ui_giant_toad_game_widgets/index.md#classes)
-2.  [GiantToadDialogueBox](src_ui_giant_toad_game_widgets/GiantToadDialogueBox-class.md)
-3.  [GiantToadHotbar](src_ui_giant_toad_game_widgets/GiantToadHotbar-class.md)
-4.  [GiantToadItemSlot](src_ui_giant_toad_game_widgets/GiantToadItemSlot-class.md)
-5.  [GiantToadProgressBar](src_ui_giant_toad_game_widgets/GiantToadProgressBar-class.md)
-6.  [GiantToadTooltip](src_ui_giant_toad_game_widgets/GiantToadTooltip-class.md)

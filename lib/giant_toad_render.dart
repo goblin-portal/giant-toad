@@ -1,5 +1,5 @@
 /// Pixel-oriented sprite, animation, lighting, and shader APIs.
-library giant_toad_render;
+library;
 
 export 'src/render/giant_toad_ambient_lighting.dart';
 export 'src/render/giant_toad_animation_states.dart';

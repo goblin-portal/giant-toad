@@ -1,4 +1,4 @@
-library giant_toad;
+library;
 
 export 'giant_toad_gameplay.dart';
 export 'giant_toad_render.dart';

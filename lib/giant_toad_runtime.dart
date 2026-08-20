@@ -1,5 +1,5 @@
 /// Input, audio, persistence, scene, project, and runtime service APIs.
-library giant_toad_runtime;
+library;
 
 export 'src/audio/giant_toad_audio.dart';
 export 'src/input/giant_toad_action_input.dart';

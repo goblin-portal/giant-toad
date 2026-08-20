@@ -1,5 +1,5 @@
 /// Pixel-art game overlay widgets, theme primitives, and input integration.
-library giant_toad_ui;
+library;
 
 export 'src/ui/giant_toad_editor_controls.dart';
 export 'src/ui/giant_toad_controls.dart';

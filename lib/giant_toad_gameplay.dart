@@ -1,5 +1,5 @@
 /// Deterministic gameplay algorithms and reusable game-feel systems.
-library giant_toad_gameplay;
+library;
 
 export 'src/gameplay/giant_toad_dialogue.dart';
 export 'src/gameplay/giant_toad_game_feel.dart';
